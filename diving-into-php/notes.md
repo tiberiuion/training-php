@@ -21,3 +21,8 @@ Not sure how DDEV handles this. There's a php.ini in the .ddev folder but I need
 
 ## A PHP file
 Learned: PHP code inside an HTML file need to be delimited by an opening and closing tags. If the file contains only PHP code, the closing tag can be ommitted.
+
+## Hello world
+Learned: phpinfo() is a useful function that prints out a lot of info about PHP.
+
+I have set up phpinfo.php in this folder.
