@@ -18,3 +18,6 @@ https://docs.ddev.com/en/stable/users/install/
 Learned: PHP configuration is done inside the php.ini file.
 
 Not sure how DDEV handles this. There's a php.ini in the .ddev folder but I need to learn more abotu it. So far I don't think this wll get in the way of leanring PHP.
+
+## A PHP file
+Learned: PHP code inside an HTML file need to be delimited by an opening and closing tags. If the file contains only PHP code, the closing tag can be ommitted.
