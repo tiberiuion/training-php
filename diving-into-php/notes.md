@@ -26,3 +26,12 @@ Learned: PHP code inside an HTML file need to be delimited by an opening and clo
 Learned: phpinfo() is a useful function that prints out a lot of info about PHP.
 
 I have set up phpinfo.php in this folder.
+
+## Documentation
+Manual: https://www.php.net/manual/en/index.php
+
+Trick: https://www.php.net/phpinfo
+
+If you add a function name at the end of the php.net url, you will get redirected to the docs for that function.
+
+
